@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Production-ready weather intelligence dashboard with 7-day forecasts, temperature trends, and smart travel recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
